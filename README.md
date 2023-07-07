@@ -1,4 +1,4 @@
-# Post Comment React Ap
+# Post Comment React App
 
 Este repositório contém um aplicativo React simples de comentário de post.
 

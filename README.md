@@ -1,6 +1,4 @@
-# README
-
-## Post Comment React App
+# Post Comment React Ap
 
 Este repositório contém um aplicativo React simples de comentário de post.
 
